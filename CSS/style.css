@@ -25,6 +25,11 @@ header nav ul li {
   padding-top: 35px;
 }
 
+header nav ul a:hover {
+  color:beige;
+  background-color:#7E685A;
+}
+
 header nav ul li a {
   text-decoration: none;
   font-size: larger;
@@ -33,7 +38,7 @@ header nav ul li a {
 
 img{
   width:100%;
-  height: 500px;
+  height: 400px;
 }
 
 .cont {
@@ -86,3 +91,15 @@ footer p{
   vertical-align: middle;
   line-height: 100px;
 } 
+
+
+//Contact Page
+#contact p{
+padding: 30px;
+}
+#contact a {
+  text-decoration: underline;
+}
+#contact a:hover {
+  color: black;
+}
