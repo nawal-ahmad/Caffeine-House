@@ -16,7 +16,7 @@ console.log(favDrink);
 console.log (cupsNum);
 
 console.log(typeof(userName));
-console.log(userAge);
-console.log(favDrink);
+console.log(typeof(userAge));
+console.log(typeof(favDrink));
 console.log (typeof(cupsNum));
 console.log (typeof(cupsNumber));
